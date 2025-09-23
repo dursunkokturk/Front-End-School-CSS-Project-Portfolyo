@@ -152,11 +152,11 @@ article section .title {
 
 footer {
   padding-left: 165px;
+  width: 1440px;
+  height: 609px;
 }
 
 footer .contact{
-  width: 1110px;
-  height: 369px;
   border: 1px solid black;
   padding-top: 120px;
   padding-left: 165px;
@@ -164,9 +164,16 @@ footer .contact{
 }
 
 footer .contact h3{
+  font-family: Montserrat;
   font-size: 40px;
-  width: 569px;
+  width: 650px;
   height: 286px;
   border: 1px solid black;
   line-height: 48px;
+}
+
+footer .contact h3 a {
+  font-family: Montserrat;
+  font-size: 40px;
+  text-decoration: none;
 }
