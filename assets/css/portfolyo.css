@@ -30,6 +30,15 @@ header h2 {
   letter-spacing: -0.7px;
 }
 
+.linkedin-logo {
+  width: 48px;
+  height: 48px;
+}
+.github-logo {
+  width: 39px;
+  height: 39px;
+}
+
 article section .title {
   font-size: 30px;
   line-height: 37px;
@@ -160,7 +169,7 @@ footer .contact{
   border: 1px solid black;
   padding-top: 120px;
   padding-left: 165px;
-  padding-bottom: 203px;
+  padding-bottom: 120px;
 }
 
 footer .contact h3{
