@@ -39,6 +39,10 @@ header h2 {
   height: 39px;
 }
 
+/* article {
+  margin-left: 165px;
+} */
+
 article section .title {
   font-size: 30px;
   line-height: 37px;
@@ -49,13 +53,14 @@ article section .title {
 
 .content {
   width: 1110px;
-  height: 2359px;
+  height: 733px;
   margin-left: 165px;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 24px;
-  border: 1px solid black;
-
+  border: 1px solid lightgray;
+  border-radius: 1%;
+  margin-bottom: 80px;
 }
 
 .content-1 {
@@ -78,81 +83,6 @@ article section .title {
 }
 
 .content-1-1 .write {
-  font-size: 16px;
-  font-family: Open Sans;
-  line-height: 28px;
-  padding-bottom: 88px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-.content-2 {
-  margin-bottom: 80px;
-  border: 1px solid black;
-}
-
-.content-2 img {
-  padding-bottom: 24px;
-}
-
-.content-2 p {
-  font-size: 16px;
-}
-
-.content-2-2 h4 {
-  font-size: 30px;
-  font-weight: 800;
-  padding-bottom: 12px;
-}
-
-.content-2-2 .write {
-  font-size: 16px;
-  font-family: Open Sans;
-  line-height: 28px;
-  padding-bottom: 88px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.content-3 {
-  margin-bottom: 80px;
-  border: 1px solid black;
-}
-
-.content-3 img {
-  padding-bottom: 24px;
-}
-
-.content-3 p {
-  font-size: 16px;
-}
-
-.content-3-3 h4 {
-  font-size: 30px;
-  font-weight: 800;
-  padding-bottom: 12px;
-}
-
-.content-3-3 .write {
   font-size: 16px;
   font-family: Open Sans;
   line-height: 28px;
